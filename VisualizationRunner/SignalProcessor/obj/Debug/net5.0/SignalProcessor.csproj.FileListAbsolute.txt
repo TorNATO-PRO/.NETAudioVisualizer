@@ -1,0 +1,12 @@
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/bin/Debug/net5.0/SignalProcessor.deps.json
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/bin/Debug/net5.0/SignalProcessor.dll
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/bin/Debug/net5.0/ref/SignalProcessor.dll
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/bin/Debug/net5.0/SignalProcessor.pdb
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/obj/Debug/net5.0/SignalProcessor.csprojAssemblyReference.cache
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/obj/Debug/net5.0/SignalProcessor.GeneratedMSBuildEditorConfig.editorconfig
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/obj/Debug/net5.0/SignalProcessor.AssemblyInfoInputs.cache
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/obj/Debug/net5.0/SignalProcessor.AssemblyInfo.cs
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/obj/Debug/net5.0/SignalProcessor.csproj.CoreCompileInputs.cache
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/obj/Debug/net5.0/SignalProcessor.dll
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/obj/Debug/net5.0/ref/SignalProcessor.dll
+/home/waltz/RiderProjects/AudioVisualizer/SignalProcessor/obj/Debug/net5.0/SignalProcessor.pdb

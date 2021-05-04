@@ -1,0 +1,15 @@
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/bin/Debug/net5.0/AudioVisualizer.deps.json
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/bin/Debug/net5.0/AudioVisualizer.dll
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/bin/Debug/net5.0/ref/AudioVisualizer.dll
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/bin/Debug/net5.0/AudioVisualizer.pdb
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/bin/Debug/net5.0/SignalProcessor.dll
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/bin/Debug/net5.0/SignalProcessor.pdb
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/obj/Debug/net5.0/AudioVisualizer.csprojAssemblyReference.cache
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/obj/Debug/net5.0/AudioVisualizer.GeneratedMSBuildEditorConfig.editorconfig
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/obj/Debug/net5.0/AudioVisualizer.AssemblyInfoInputs.cache
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/obj/Debug/net5.0/AudioVisualizer.AssemblyInfo.cs
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/obj/Debug/net5.0/AudioVisualizer.csproj.CoreCompileInputs.cache
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/obj/Debug/net5.0/AudioVisualizer.csproj.CopyComplete
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/obj/Debug/net5.0/AudioVisualizer.dll
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/obj/Debug/net5.0/ref/AudioVisualizer.dll
+/home/waltz/RiderProjects/AudioVisualizer/AudioVisualizer/obj/Debug/net5.0/AudioVisualizer.pdb

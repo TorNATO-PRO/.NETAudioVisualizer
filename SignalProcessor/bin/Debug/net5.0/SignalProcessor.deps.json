@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SignalProcessor/1.0.0": {
+        "runtime": {
+          "SignalProcessor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SignalProcessor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

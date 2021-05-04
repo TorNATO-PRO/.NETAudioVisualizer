@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioVisualizer", "AudioVisualizer\AudioVisualizer.csproj", "{27CC586C-5180-490F-B3E5-CB092AD7248D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalProcessor", "SignalProcessor\SignalProcessor.csproj", "{606F07EC-0436-401D-8734-8E505F5C3EA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisualizationRunner", "VisualizationRunner\VisualizationRunner.csproj", "{166EEFF7-B62D-440D-AD64-E30E675F35D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27CC586C-5180-490F-B3E5-CB092AD7248D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CC586C-5180-490F-B3E5-CB092AD7248D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CC586C-5180-490F-B3E5-CB092AD7248D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CC586C-5180-490F-B3E5-CB092AD7248D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606F07EC-0436-401D-8734-8E505F5C3EA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606F07EC-0436-401D-8734-8E505F5C3EA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606F07EC-0436-401D-8734-8E505F5C3EA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606F07EC-0436-401D-8734-8E505F5C3EA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{166EEFF7-B62D-440D-AD64-E30E675F35D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{166EEFF7-B62D-440D-AD64-E30E675F35D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{166EEFF7-B62D-440D-AD64-E30E675F35D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{166EEFF7-B62D-440D-AD64-E30E675F35D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
